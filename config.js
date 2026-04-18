@@ -1,7 +1,7 @@
 
 var config = {
     lines: [
-        "My cutie pie ,",
+        "Dear cutie pie ,",
         " Dear chootu, In the life where everthing feels still i found the one moving with me the relentless passage of time. ",
         "i love the way you are the way thing goes when you are around .",
         "chand si chandni ek ragni h tujme tu chand to nhi magr chandni h tujhme palkhe jhapak kr jab bhi dekhta hu tujhko sab tham sa jata h mana lgta h wakt pyar,",
